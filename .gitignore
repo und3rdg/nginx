@@ -1,0 +1,9 @@
+.swo
+.swp
+Session.vim
+
+logs/
+\!default!
+site-available/
+site-enabled/
+hosts
