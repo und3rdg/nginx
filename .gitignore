@@ -2,8 +2,10 @@
 .swp
 Session.vim
 
-logs/
-\!default!
-site-available/
-site-enabled/
 hosts
+logs/
+
+site-available/*
+site-enabled/*
+!*/default
+
