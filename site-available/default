@@ -1,8 +1,8 @@
 server { # php/fastcgi
   listen       80;
-  server_name  default.bl;
+  server_name  227.test;
   access_log   logs/default.access.log  main;
-  root /home/undg/nginx/default;
+  root /home/undg/www/227-test;
   index index.php index.html index.htm;
 
   location / {

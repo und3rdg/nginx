@@ -3,9 +3,11 @@
 Session.vim
 
 hosts
-logs/
+logs/*
 
 site-available/*
 site-enabled/*
 !*/default
+
+!.gitkeep
 
